@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+#logo {
+    width: 450px;
+    height: auto;
+    border-radius: 50%;
+    filter: grayscale(50%);
+    transition: transform 0.3s;
+    display: flex;
+    margin: 0 auto;
+}
+#logo:hover {
+    transform: scale(1.1);
+}
+.titulos {
+    font-size: 50;
+    display: flex;
+    justify-content: center;
+    color: white;
+    position: relative;/* Posiciona el texto de forma absoluta */
+    top: 100px; /* Distancia desde la parte superior del contenedor */
+    z-index: 9999;
+}
