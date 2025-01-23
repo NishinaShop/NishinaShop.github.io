@@ -22,3 +22,13 @@ body {
     top: 100px; /* Distancia desde la parte superior del contenedor */
     z-index: 9999;
 }
+.info{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -100px;
+    z-index: 9999;
+    font-size: 25px;
+    text-align: center;
+}
