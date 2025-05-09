@@ -1,0 +1,1227 @@
+<section
+        data-w-id="f9da7159-ab9e-250d-b96a-b65c5b257aff"
+        class="section-60px-parralex"
+      >
+        <div class="container">
+          <div class="title-wrapper">
+            <div class="mask">
+              <h2
+                class="heading"
+                style="
+                  opacity: 0;
+                  transform: translate3d(0px, 50px, 0px) scale3d(1, 1, 1)
+                    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+                  transform-style: preserve-3d;
+                "
+              >
+                Collections
+              </h2>
+            </div>
+          </div>
+          <div class="collections-flex">
+            <div
+              class="collection-block _1"
+              style="
+                will-change: transform;
+                transform: translate3d(-100px, 0px, 0px) scale3d(1, 1, 1)
+                  rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+                transform-style: preserve-3d;
+              "
+            >
+              <div class="collection-wrapper">
+                <div class="collection-image-wrapper">
+                  <img
+                    src="./index_files/66c337fbe9c082e57917ac12_Rectangle 22.avif"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-left-top"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(-100%, -100%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66c337fbbfb6a9159379a872_Rectangle 23.avif"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-center"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(20%, -80%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66c337fbc4db20c0b9781e15_Rectangle 24.avif"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-right"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(100%, -100%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66c337fc31880607001a4ffe_Rectangle 25.avif"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-left-bottom"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(-100%, -60%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66c337fb99dd0937ccd9aa84_Rectangle 26.avif"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-right-bottom"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(100%, -60%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                </div>
+                <div class="collection-body">
+                  <div class="_20px-text">
+                    TNC's Summer Collection Showcasing Vibrant Colors, Breezy
+                    Outfits, and Must-Have Styles for Hot Days.
+                  </div>
+                </div>
+              </div>
+              <a
+                href="https://trendy-tnc.webflow.io/product-tags/spring"
+                class="collection-button-wrapper w-inline-block"
+              >
+                <div class="_20px-text">Spring Collection</div>
+                <div
+                  class="arrow-black-button"
+                  style="background-color: rgba(0, 0, 0, 0); width: 0px;"
+                >
+                  <div class="mask">
+                    <p
+                      class="text-white-font-600"
+                      style="
+                        transform: translate3d(100%, 0px, 0px) scale3d(1, 1, 1)
+                          rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                          skew(0deg, 0deg);
+                        transform-style: preserve-3d;
+                      "
+                    >
+                      View All
+                    </p>
+                  </div>
+                  <div
+                    class="arrow-button-main"
+                    style="
+                      color: rgb(0, 0, 0);
+                      background-color: rgb(255, 255, 255);
+                    "
+                  >
+                    <div class="icon">arrow_outward</div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div
+              class="collection-block _2"
+              style="
+                will-change: transform;
+                transform: translate3d(0px, 200px, 0px) scale3d(1, 1, 1)
+                  rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+                transform-style: preserve-3d;
+              "
+            >
+              <div class="collection-wrapper">
+                <div class="collection-image-wrapper">
+                  <img
+                    src="./index_files/66ceb29427d0a3dabac36fab_Rectangle 21-1.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-left-top"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(-100%, -100%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66ceb2933f98e5ad814fbb01_Rectangle 18-1.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-center"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(20%, -80%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66ceb293736f9095d2e41617_Rectangle 17-1.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-right"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(100%, -100%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66ceb293485b42e1c015189b_Rectangle 19-1.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-left-bottom"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(-100%, -60%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66ceb293d466a439da731a0c_Rectangle 20-1.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-right-bottom"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(100%, -60%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                </div>
+                <div class="collection-body">
+                  <div class="_20px-text">
+                    Trendy TNC's Winter Collection Featuring Warm Layers,
+                    Stylish Knits, and Elegant Cold-Weather Essentials.
+                  </div>
+                </div>
+              </div>
+              <a
+                href="https://trendy-tnc.webflow.io/product-tags/wedding"
+                class="collection-button-wrapper w-inline-block"
+              >
+                <div class="_20px-text">Wedding Collection</div>
+                <div
+                  class="arrow-black-button"
+                  style="background-color: rgba(0, 0, 0, 0); width: 0px;"
+                >
+                  <div class="mask">
+                    <p
+                      class="text-white-font-600"
+                      style="
+                        transform: translate3d(100%, 0px, 0px) scale3d(1, 1, 1)
+                          rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                          skew(0deg, 0deg);
+                        transform-style: preserve-3d;
+                      "
+                    >
+                      View All
+                    </p>
+                  </div>
+                  <div
+                    class="arrow-button-main"
+                    style="
+                      color: rgb(0, 0, 0);
+                      background-color: rgb(255, 255, 255);
+                    "
+                  >
+                    <div class="icon">arrow_outward</div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="collections-flex no-margin">
+            <div
+              class="collection-block _3"
+              style="
+                will-change: transform;
+                transform: translate3d(-200px, 0px, 0px) scale3d(1, 1, 1)
+                  rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+                transform-style: preserve-3d;
+              "
+            >
+              <div class="collection-wrapper">
+                <div class="collection-image-wrapper">
+                  <img
+                    src="./index_files/66ceb293d97a369c77fcd2de_Rectangle 17.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-left-top"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(-100%, -100%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66ceb293de84a33085d80885_Rectangle 18.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-center"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(20%, -80%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66ceb2943731cf4bb3743b51_Rectangle 21.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-right"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(100%, -100%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66ceb2938651f6f72beaf08b_Rectangle 19.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-left-bottom"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(-100%, -60%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66ceb29425b39a744192550d_Rectangle 20.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-right-bottom"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(100%, -60%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                </div>
+                <div class="collection-body">
+                  <div class="_20px-text">
+                    Trendy TNC's Latest Collection Bursting with Fresh Colors,
+                    Stylish Designs, and Seasonal Must-Haves.
+                  </div>
+                </div>
+              </div>
+              <a
+                href="https://trendy-tnc.webflow.io/product-tags/summer"
+                class="collection-button-wrapper w-inline-block"
+              >
+                <div class="_20px-text">Summer Collection</div>
+                <div
+                  class="arrow-black-button"
+                  style="background-color: rgba(0, 0, 0, 0); width: 0px;"
+                >
+                  <div class="mask">
+                    <p
+                      class="text-white-font-600"
+                      style="
+                        transform: translate3d(100%, 0px, 0px) scale3d(1, 1, 1)
+                          rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                          skew(0deg, 0deg);
+                        transform-style: preserve-3d;
+                      "
+                    >
+                      View All
+                    </p>
+                  </div>
+                  <div
+                    class="arrow-button-main"
+                    style="
+                      color: rgb(0, 0, 0);
+                      background-color: rgb(255, 255, 255);
+                    "
+                  >
+                    <div class="icon">arrow_outward</div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div
+              class="collection-block _4"
+              style="
+                will-change: transform;
+                transform: translate3d(0px, 200px, 0px) scale3d(1, 1, 1)
+                  rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+                transform-style: preserve-3d;
+              "
+            >
+              <div class="collection-wrapper">
+                <div class="collection-image-wrapper">
+                  <img
+                    src="./index_files/66ceb29309a702bdac0534e2_Rectangle 17-2.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-left-top"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(-100%, -100%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66ceb299ea22e0cb44a92738_Rectangle 18-2.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-center"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(20%, -80%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66ceb29481cb809aa15c130c_Rectangle 21-2.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-right"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(100%, -100%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66ceb29409a702bdac05357e_Rectangle 19-2.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-left-bottom"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(-100%, -60%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                  <img
+                    src="./index_files/66ceb2b7c4cc0dcbcbee89c3_Rectangle 20-2.png"
+                    loading="lazy"
+                    alt=""
+                    class="image-216px-right-bottom"
+                    style="
+                      will-change: transform;
+                      transform: translate3d(100%, -60%, 0px) scale3d(1, 1, 1)
+                        rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                        skew(0deg, 0deg);
+                      transform-style: preserve-3d;
+                    "
+                  />
+                </div>
+                <div class="collection-body">
+                  <div class="_20px-text">
+                    Trendy TNC's Latest Collection Bursting with Fresh Colors,
+                    Stylish Designs, and Seasonal Must-Haves.
+                  </div>
+                </div>
+              </div>
+              <a
+                href="https://trendy-tnc.webflow.io/product-tags/winter"
+                class="collection-button-wrapper w-inline-block"
+              >
+                <div class="_20px-text">Winter Collection</div>
+                <div
+                  class="arrow-black-button"
+                  style="background-color: rgba(0, 0, 0, 0); width: 0px;"
+                >
+                  <div class="mask">
+                    <p
+                      class="text-white-font-600"
+                      style="
+                        transform: translate3d(100%, 0px, 0px) scale3d(1, 1, 1)
+                          rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+                          skew(0deg, 0deg);
+                        transform-style: preserve-3d;
+                      "
+                    >
+                      View All
+                    </p>
+                  </div>
+                  <div
+                    class="arrow-button-main"
+                    style="
+                      color: rgb(0, 0, 0);
+                      background-color: rgb(255, 255, 255);
+                    "
+                  >
+                    <div class="icon">arrow_outward</div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section
+        data-w-id="6d589023-8069-c5d9-5a7b-3ea0bd83fc23"
+        class="mission-vision-section"
+      >
+        <div
+          data-w-id="ce3c31cd-7407-1b60-f839-6bedffff4e74"
+          style="
+            opacity: 0;
+            transform: translate3d(50px, 0px, 0px) scale3d(1, 1, 1)
+              rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+            transform-style: preserve-3d;
+          "
+          class="slider-animation-wrapper-secondary"
+        >
+          <div
+            style="
+              transform: translate3d(0vw, 0px, 0px) scale3d(1, 1, 1)
+                rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+              transform-style: preserve-3d;
+            "
+            class="partners-grid-infinity"
+          >
+            <div class="_60px-text">
+              Our Journey from Passion to Fashion Excellence
+            </div>
+            <div class="circle-text">T</div>
+            <div class="_60px-text">
+              Our Journey from Passion to Fashion Excellence
+            </div>
+            <div class="circle-text">T</div>
+            <div class="_60px-text">
+              Our Journey from Passion to Fashion Excellence
+            </div>
+            <div class="circle-text">T</div>
+          </div>
+        </div>
+        <div class="container z-index-2">
+          <div class="mission-vision-wrapper">
+            <div
+              data-w-id="415a7348-c170-7222-c18d-66750325f52e"
+              class="mission-card-wrapper"
+              style="
+                will-change: transform;
+                transform: translate3d(20%, 40%, 0px) scale3d(1, 1, 1)
+                  rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+                transform-style: preserve-3d;
+              "
+            >
+              <div class="mission-card">
+                <div class="_40px-text">Mission</div>
+                <img
+                  src="./index_files/66c3449b9879d394e35d453c_Rectangle 13.avif"
+                  loading="lazy"
+                  alt=""
+                  class="mission-image"
+                />
+                <div class="_18px-text">
+                  At Trendy TNC, we deliver stylish, high-quality fashion that
+                  empowers individuals to express their unique personality with
+                  comfort.
+                </div>
+              </div>
+              <a
+                data-w-id="ba2560af-a813-130c-b209-b41d37b4cd90"
+                href="https://trendy-tnc.webflow.io/about"
+                class="secondary-button w-inline-block"
+                style="
+                  opacity: 0;
+                  transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1)
+                    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+                  transform-style: preserve-3d;
+                "
+              >
+                <div class="button-text-wrapper _30px">
+                  <div class="default-text">About us</div>
+                  <div class="hover-text">About us</div>
+                </div>
+                <div class="button-icon">arrow_outward</div>
+                <div class="button-hover-reverse" style="width: 100%;"></div>
+              </a>
+            </div>
+            <div
+              data-w-id="45b65ad3-cf29-ee3d-a252-821e1b670620"
+              class="vision-card-wrapper"
+              style="
+                will-change: transform;
+                transform: translate3d(0px, 25%, 0px) scale3d(1, 1, 1)
+                  rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+                transform-style: preserve-3d;
+              "
+            >
+              <div class="mission-card">
+                <div class="_40px-text">Vision</div>
+                <img
+                  src="./index_files/66c3449b5b3c0372086db6a9_Rectangle 14.avif"
+                  loading="lazy"
+                  alt=""
+                  class="mission-image"
+                />
+                <div class="_18px-text">
+                  To become a leading fashion brand that inspires individuality
+                  and confidence through innovative, stylish, and sustainable
+                  clothing.
+                </div>
+              </div>
+              <a
+                data-w-id="ba2560af-a813-130c-b209-b41d37b4cd90"
+                href="https://trendy-tnc.webflow.io/about"
+                class="secondary-button w-inline-block"
+                style="
+                  opacity: 0;
+                  transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1)
+                    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+                  transform-style: preserve-3d;
+                "
+              >
+                <div class="button-text-wrapper _30px">
+                  <div class="default-text">About us</div>
+                  <div class="hover-text">About us</div>
+                </div>
+                <div class="button-icon">arrow_outward</div>
+                <div class="button-hover-reverse" style="width: 100%;"></div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section data-w-id="28bce945-1c3c-d2bd-562e-322aec2072f3" class="section">
+        <div class="container z-index-2">
+          <div class="title-wrapper">
+            <div class="mask">
+              <h2
+                class="heading"
+                style="
+                  opacity: 0;
+                  transform: translate3d(0px, 50px, 0px) scale3d(1, 1, 1)
+                    rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+                  transform-style: preserve-3d;
+                "
+              >
+                Customer Reviews
+              </h2>
+            </div>
+          </div>
+          <div class="relative-block">
+            <div
+              data-delay="4000"
+              data-animation="slide"
+              class="slider w-slider"
+              data-autoplay="false"
+              data-easing="ease"
+              data-hide-arrows="false"
+              data-disable-swipe="false"
+              data-autoplay-limit="0"
+              data-nav-spacing="3"
+              data-duration="500"
+              data-infinite="true"
+              role="region"
+              aria-label="carousel"
+            >
+              <div class="_3-col-mask w-slider-mask" id="w-slider-mask-1">
+                <div
+                  class="margin-right-30px w-slide"
+                  aria-label="1 of 6"
+                  role="group"
+                  style="
+                    transition: all;
+                    transform: translateX(0px);
+                    opacity: 1;
+                  "
+                >
+                  <div class="testimonial-card-white">
+                    <img
+                      loading="lazy"
+                      src="./index_files/66c425d428e54c3ecb876fde_Frame (2).svg"
+                      alt=""
+                      class="image-44px"
+                    />
+                    <div class="testimonial-18px-uppercase">
+                      Trendy TNC has transformed my wardrobe! The quality and
+                      style of their clothing are unmatched. I always receive
+                      compliments when I wear their pieces. Highly recommend for
+                      fashion enthusiasts!
+                    </div>
+                    <div class="testimonial-client">
+                      <img
+                        loading="lazy"
+                        src="./index_files/6603fb4facbcefd607e72192_Rectangle 125.webp"
+                        alt=""
+                        class="testimonial-image-54px-rounded"
+                      />
+                      <div class="w-layout-vflex">
+                        <div class="_20px-700">Megan Johnson</div>
+                        <div class="testimonial-desgination">
+                          Fashion Designer
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="margin-right-30px w-slide"
+                  aria-label="2 of 6"
+                  role="group"
+                  aria-hidden="true"
+                  style="
+                    transition: all;
+                    transform: translateX(0px);
+                    opacity: 1;
+                  "
+                >
+                  <div class="testimonial-card-white" aria-hidden="true">
+                    <img
+                      loading="lazy"
+                      src="./index_files/66c425d428e54c3ecb876fde_Frame (2).svg"
+                      alt=""
+                      class="image-44px"
+                      aria-hidden="true"
+                    />
+                    <div class="testimonial-18px-uppercase" aria-hidden="true">
+                      I love shopping at Trendy TNC. Their collections are
+                      always up-to-date Including the latest trends. The
+                      customer service is excellent, reliable, and the delivery
+                      is fast. A go-to for stylish outfits!
+                    </div>
+                    <div class="testimonial-client" aria-hidden="true">
+                      <img
+                        loading="lazy"
+                        src="./index_files/66c42684f35aa2c84e9355e9_Ellipse 5.avif"
+                        alt=""
+                        class="testimonial-image-54px-rounded"
+                        aria-hidden="true"
+                      />
+                      <div class="w-layout-vflex" aria-hidden="true">
+                        <div class="_20px-700" aria-hidden="true">
+                          Annette Black
+                        </div>
+                        <div class="testimonial-desgination" aria-hidden="true">
+                          UX/UI Designer
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="margin-right-30px w-slide"
+                  aria-label="3 of 6"
+                  role="group"
+                  aria-hidden="true"
+                  style="
+                    transition: all;
+                    transform: translateX(0px);
+                    opacity: 1;
+                  "
+                >
+                  <div class="testimonial-card-white" aria-hidden="true">
+                    <img
+                      loading="lazy"
+                      src="./index_files/66c425d428e54c3ecb876fde_Frame (2).svg"
+                      alt=""
+                      class="image-44px"
+                      aria-hidden="true"
+                    />
+                    <div class="testimonial-18px-uppercase" aria-hidden="true">
+                      Trendy TNC never disappoints. The variety and quality of
+                      their clothing are top-notch. I’ve found so many unique
+                      and fashionable pieces that fit perfectly. A must-visit
+                      for every fashion lover!
+                    </div>
+                    <div class="testimonial-client" aria-hidden="true">
+                      <img
+                        loading="lazy"
+                        src="./index_files/66c426846cf889133e8a254a_Ellipse 5 (1).avif"
+                        alt=""
+                        class="testimonial-image-54px-rounded"
+                        aria-hidden="true"
+                      />
+                      <div class="w-layout-vflex" aria-hidden="true">
+                        <div class="_20px-700" aria-hidden="true">
+                          Bessie Cooper
+                        </div>
+                        <div class="testimonial-desgination" aria-hidden="true">
+                          UX/UI Designer
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="margin-right-30px w-slide"
+                  aria-label="4 of 6"
+                  role="group"
+                  aria-hidden="true"
+                  style="
+                    transition: all;
+                    transform: translateX(0px);
+                    opacity: 1;
+                  "
+                >
+                  <div class="testimonial-card-white" aria-hidden="true">
+                    <img
+                      loading="lazy"
+                      src="./index_files/66c425d428e54c3ecb876fde_Frame (2).svg"
+                      alt=""
+                      class="image-44px"
+                      aria-hidden="true"
+                    />
+                    <div class="testimonial-18px-uppercase" aria-hidden="true">
+                      Trendy TNC has transformed my wardrobe! The quality and
+                      style of their clothing are unmatched. I always receive
+                      compliments when I wear their pieces. Highly recommend for
+                      fashion enthusiasts!
+                    </div>
+                    <div class="testimonial-client" aria-hidden="true">
+                      <img
+                        loading="lazy"
+                        src="./index_files/66c42683675458a809ba3670_Ellipse 5 (2).avif"
+                        alt=""
+                        class="testimonial-image-54px-rounded"
+                        aria-hidden="true"
+                      />
+                      <div class="w-layout-vflex" aria-hidden="true">
+                        <div class="_20px-700" aria-hidden="true">
+                          Megan Johnson
+                        </div>
+                        <div class="testimonial-desgination" aria-hidden="true">
+                          UX/UI Designer
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="margin-right-30px w-slide"
+                  aria-label="5 of 6"
+                  role="group"
+                  aria-hidden="true"
+                  style="
+                    transition: all;
+                    transform: translateX(0px);
+                    opacity: 1;
+                  "
+                >
+                  <div class="testimonial-card-white" aria-hidden="true">
+                    <img
+                      loading="lazy"
+                      src="./index_files/66c425d428e54c3ecb876fde_Frame (2).svg"
+                      alt=""
+                      class="image-44px"
+                      aria-hidden="true"
+                    />
+                    <div class="testimonial-18px-uppercase" aria-hidden="true">
+                      Trendy TNC has transformed my wardrobe! The quality and
+                      style of their clothing are unmatched. I always receive
+                      compliments when I wear their pieces. Highly recommend for
+                      fashion enthusiasts!
+                    </div>
+                    <div class="testimonial-client" aria-hidden="true">
+                      <img
+                        loading="lazy"
+                        src="./index_files/6603fb4facbcefd607e72192_Rectangle 125.webp"
+                        alt=""
+                        class="testimonial-image-54px-rounded"
+                        aria-hidden="true"
+                      />
+                      <div class="w-layout-vflex" aria-hidden="true">
+                        <div class="_20px-700" aria-hidden="true">
+                          Megan Johnson
+                        </div>
+                        <div class="testimonial-desgination" aria-hidden="true">
+                          UX/UI Designer
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="margin-right-30px w-slide"
+                  aria-label="6 of 6"
+                  role="group"
+                  aria-hidden="true"
+                  style="
+                    transition: all;
+                    transform: translateX(0px);
+                    opacity: 1;
+                  "
+                >
+                  <div class="testimonial-card-white" aria-hidden="true">
+                    <img
+                      loading="lazy"
+                      src="./index_files/66c425d428e54c3ecb876fde_Frame (2).svg"
+                      alt=""
+                      class="image-44px"
+                      aria-hidden="true"
+                    />
+                    <div class="testimonial-18px-uppercase" aria-hidden="true">
+                      I love shopping at Trendy TNC. Their collections are
+                      always up-to-date with the latest trends. The customer
+                      service is very excellent, and the delivery is fast and
+                      secure. A go-to for stylish outfits!
+                    </div>
+                    <div class="testimonial-client" aria-hidden="true">
+                      <img
+                        loading="lazy"
+                        src="./index_files/66c42684f35aa2c84e9355e9_Ellipse 5.avif"
+                        alt=""
+                        class="testimonial-image-54px-rounded"
+                        aria-hidden="true"
+                      />
+                      <div class="w-layout-vflex" aria-hidden="true">
+                        <div class="_20px-700" aria-hidden="true">
+                          Annette Black
+                        </div>
+                        <div class="testimonial-desgination" aria-hidden="true">
+                          UX/UI Designer
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  aria-live="off"
+                  aria-atomic="true"
+                  class="w-slider-aria-label"
+                  data-wf-ignore=""
+                ></div>
+              </div>
+              <div
+                class="testimonial-navigation w-slider-arrow-left"
+                role="button"
+                tabindex="0"
+                aria-controls="w-slider-mask-1"
+                aria-label="previous slide"
+              >
+                <div class="testimonial-icon-wrapper">
+                  <img
+                    src="./index_files/66c4250f6f925dfaf347f7a1_Frame.svg"
+                    loading="lazy"
+                    alt=""
+                    class="image-24px"
+                  />
+                </div>
+              </div>
+              <div
+                class="testimonial-navigation right w-slider-arrow-right"
+                role="button"
+                tabindex="0"
+                aria-controls="w-slider-mask-1"
+                aria-label="next slide"
+              >
+                <div class="testimonial-icon-wrapper">
+                  <img
+                    src="./index_files/66c4250f4692b0029d927161_Frame (1).svg"
+                    loading="lazy"
+                    alt=""
+                    class="image-24px"
+                  />
+                </div>
+              </div>
+              <div class="hidden w-slider-nav w-round w-num">
+                <div
+                  class="w-slider-dot w-active"
+                  data-wf-ignore=""
+                  aria-label="Show slide 1 of 6"
+                  aria-pressed="true"
+                  role="button"
+                  tabindex="0"
+                  style="margin-left: 3px; margin-right: 3px;"
+                >
+                  1
+                </div>
+                <div
+                  class="w-slider-dot"
+                  data-wf-ignore=""
+                  aria-label="Show slide 2 of 6"
+                  aria-pressed="false"
+                  role="button"
+                  tabindex="-1"
+                  style="margin-left: 3px; margin-right: 3px;"
+                >
+                  2
+                </div>
+                <div
+                  class="w-slider-dot"
+                  data-wf-ignore=""
+                  aria-label="Show slide 3 of 6"
+                  aria-pressed="false"
+                  role="button"
+                  tabindex="-1"
+                  style="margin-left: 3px; margin-right: 3px;"
+                >
+                  3
+                </div>
+                <div
+                  class="w-slider-dot"
+                  data-wf-ignore=""
+                  aria-label="Show slide 4 of 6"
+                  aria-pressed="false"
+                  role="button"
+                  tabindex="-1"
+                  style="margin-left: 3px; margin-right: 3px;"
+                >
+                  4
+                </div>
+                <div
+                  class="w-slider-dot"
+                  data-wf-ignore=""
+                  aria-label="Show slide 5 of 6"
+                  aria-pressed="false"
+                  role="button"
+                  tabindex="-1"
+                  style="margin-left: 3px; margin-right: 3px;"
+                >
+                  5
+                </div>
+                <div
+                  class="w-slider-dot"
+                  data-wf-ignore=""
+                  aria-label="Show slide 6 of 6"
+                  aria-pressed="false"
+                  role="button"
+                  tabindex="-1"
+                  style="margin-left: 3px; margin-right: 3px;"
+                >
+                  6
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="featured-products-in-footer">
+        <div class="footer-product-wrapper">
+          <img
+            src="./index_files/66c427a10c6ff9b8f981dd82_Rectangle 39.avif"
+            loading="lazy"
+            alt=""
+            class="footer-product-image"
+          />
+          <div class="hotspot-wrapper">
+            <div class="hotspot-icon">
+              <img
+                src="./index_files/66c42842b7d3d92aa0a6d632_Frame (3).svg"
+                loading="lazy"
+                alt=""
+                class="hotspot-icon-image"
+              />
+            </div>
+            <div class="hotspot-content" style="opacity: 0;">
+              <div class="_18px-text">Girls Fancy Dress</div>
+              <p class="_16px-price">$30.00</p>
+              <img
+                src="./index_files/66c428ce80cdb8417cbcb95d_Polygon 1.svg"
+                loading="lazy"
+                alt=""
+                class="polygon-image"
+              />
+              <a
+                data-w-id="d48e2666-7ead-9021-a3a0-92380c2b748d"
+                href="https://trendy-tnc.webflow.io/#"
+                class="view-details-button w-inline-block"
+              >
+                <div class="z-index-1">Details</div>
+                <div class="button-hover" style="width: 0%;"></div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="footer-product-wrapper hide-in-mobile">
+          <img
+            src="./index_files/66c427a0b8ffeb341858b109_Rectangle 53.avif"
+            loading="lazy"
+            alt=""
+            class="footer-product-image"
+          />
+          <div class="hotspot-wrapper">
+            <div class="hotspot-icon">
+              <img
+                src="./index_files/66c42842b7d3d92aa0a6d632_Frame (3).svg"
+                loading="lazy"
+                alt=""
+                class="hotspot-icon-image"
+              />
+            </div>
+            <div class="hotspot-content" style="opacity: 0;">
+              <div class="_18px-text">Girls Fancy Dress</div>
+              <p class="_16px-price">$30.00</p>
+              <img
+                src="./index_files/66c428ce80cdb8417cbcb95d_Polygon 1.svg"
+                loading="lazy"
+                alt=""
+                class="polygon-image"
+              />
+              <a
+                href="https://trendy-tnc.webflow.io/#"
+                class="view-details-button w-inline-block"
+              >
+                <div class="z-index-1">Details</div>
+                <div class="button-hover"></div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="footer-product-wrapper hide-in-portrait">
+          <img
+            src="./index_files/66c427a080e69f1103d0c4db_Rectangle 54.avif"
+            loading="lazy"
+            alt=""
+            class="footer-product-image"
+          />
+          <div
+            data-w-id="156dd3fe-9214-a1ad-e6f8-2c27939d2ded"
+            class="hotspot-wrapper-open-first"
+          >
+            <div
+              data-w-id="156dd3fe-9214-a1ad-e6f8-2c27939d2dee"
+              class="hotspot-icon-open-always"
+            >
+              <img
+                src="./index_files/66c42842b7d3d92aa0a6d632_Frame (3).svg"
+                loading="lazy"
+                alt=""
+                class="hotspot-icon-image"
+                style="
+                  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1)
+                    rotateX(0deg) rotateY(0deg) rotateZ(45deg) skew(0deg, 0deg);
+                  transform-style: preserve-3d;
+                "
+              />
+            </div>
+            <div class="hotspot-content" style="opacity: 1;">
+              <div class="_18px-text">Girls Fancy Dress</div>
+              <p class="_16px-price">$30.00</p>
+              <img
+                src="./index_files/66c428ce80cdb8417cbcb95d_Polygon 1.svg"
+                loading="lazy"
+                alt=""
+                class="polygon-image"
+              />
+              <a
+                href="https://trendy-tnc.webflow.io/#"
+                class="view-details-button w-inline-block"
+              >
+                <div class="z-index-1">Details</div>
+                <div class="button-hover"></div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="footer-product-wrapper hide-in-tablet">
+          <img
+            src="./index_files/66c427a00c6ff9b8f981da28_Rectangle 55.avif"
+            loading="lazy"
+            alt=""
+            class="footer-product-image"
+          />
+          <div class="hotspot-wrapper">
+            <div class="hotspot-icon">
+              <img
+                src="./index_files/66c42842b7d3d92aa0a6d632_Frame (3).svg"
+                loading="lazy"
+                alt=""
+                class="hotspot-icon-image"
+              />
+            </div>
+            <div class="hotspot-content" style="opacity: 0;">
+              <div class="_18px-text">Girls Fancy Dress</div>
+              <p class="_16px-price">$30.00</p>
+              <img
+                src="./index_files/66c428ce80cdb8417cbcb95d_Polygon 1.svg"
+                loading="lazy"
+                alt=""
+                class="polygon-image"
+              />
+              <a
+                href="https://trendy-tnc.webflow.io/#"
+                class="view-details-button w-inline-block"
+              >
+                <div class="z-index-1">Details</div>
+                <div class="button-hover"></div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="footer-product-wrapper hide-in-tablet">
+          <img
+            src="./index_files/66c427a129ac786db71be4ed_Rectangle 56.avif"
+            loading="lazy"
+            sizes="(max-width: 767px) 100vw, (max-width: 991px) 198.25px, 20vw"
+            srcset="
+              https://cdn.prod.website-files.com/66bf11353c04678c8aeb0cc3/66c427a129ac786db71be4ed_Rectangle%2056-p-500.avif 500w,
+              https://cdn.prod.website-files.com/66bf11353c04678c8aeb0cc3/66c427a129ac786db71be4ed_Rectangle%2056.avif       768w
+            "
+            alt=""
+            class="footer-product-image"
+          />
+          <div class="hotspot-wrapper">
+            <div class="hotspot-icon">
+              <img
+                src="./index_files/66c42842b7d3d92aa0a6d632_Frame (3).svg"
+                loading="lazy"
+                alt=""
+                class="hotspot-icon-image"
+              />
+            </div>
+            <div class="hotspot-content" style="opacity: 0;">
+              <div class="_18px-text">Girls Fancy Dress</div>
+              <p class="_16px-price">$30.00</p>
+              <img
+                src="./index_files/66c428ce80cdb8417cbcb95d_Polygon 1.svg"
+                loading="lazy"
+                alt=""
+                class="polygon-image"
+              />
+              <a
+                href="https://trendy-tnc.webflow.io/#"
+                class="view-details-button w-inline-block"
+              >
+                <div class="z-index-1">Details</div>
+                <div class="button-hover"></div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
